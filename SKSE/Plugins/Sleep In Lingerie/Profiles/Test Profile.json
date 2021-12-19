@@ -1,0 +1,27 @@
+{
+	"float" : 
+	{
+		"lingertime" : 0.25
+	},
+	"int" : 
+	{
+		"ignoreext" : 0,
+		"ignorenpc" : 1,
+		"lingerchoice" : 2,
+		"outfitmode" : 1,
+		"sleepchoice" : 2,
+		"version" : 106
+	},
+	"intList" : 
+	{
+		"chance" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+		"season" : [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ]
+	},
+	"stringList" : 
+	{
+		"followername" : [ "Weyna", "Kristi", "", "", "", "", "", "", "", "", "", "" ],
+		"lingerie" : [ "Aradia Domme (Purple)", "Aradia Domme (Purple)", "Lingerie Set", "", "", "", "", "", "", "", "", "" ],
+		"location" : [ "", "", "", "", "", "", "", "", "", "", "", "" ],
+		"worn" : [ "", "", "", "", "", "", "", "", "", "", "", "" ]
+	}
+}

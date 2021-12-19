@@ -1,0 +1,24 @@
+[12/18/2021 - 04:16:50AM] Apropos2 log opened (PC)
+[12/18/2021 - 04:16:50AM] -- Apropos2ConfigMenu: OnGameReload: Apropos2 MCM Loaded CurrentVersion: 1 / 10010
+[12/18/2021 - 04:16:50AM] -- Apropos2SystemAlias: OnPlayerLoadGame
+[12/18/2021 - 04:16:50AM] -- Apropos2SystemAlias: [Apropos2SystemAlias <alias playerAlias on quest Apropos2MainQuest (F1056949)>] OnPlayerLoadGame - Version 0 / 10010
+[12/18/2021 - 04:16:51AM] -- apropos2messagewidget: Apropos2 Message Widget 08: OnWidgetLoad
+[12/18/2021 - 04:16:51AM] -- apropos2messagewidget: Apropos2 Message Widget 08: OnWidgetReset
+[12/18/2021 - 04:16:51AM] -- apropos2messagewidget: Apropos2 Message Widget 00: OnWidgetLoad
+[12/18/2021 - 04:16:51AM] -- apropos2messagewidget: Apropos2 Message Widget 00: OnWidgetReset
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 01: OnWidgetLoad
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 01: OnWidgetReset
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 02: OnWidgetLoad
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 02: OnWidgetReset
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 03: OnWidgetLoad
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 03: OnWidgetReset
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 05: OnWidgetLoad
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 05: OnWidgetReset
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 04: OnWidgetLoad
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 04: OnWidgetReset
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 06: OnWidgetLoad
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 06: OnWidgetReset
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 07: OnWidgetLoad
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 07: OnWidgetReset
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 09: OnWidgetLoad
+[12/18/2021 - 04:16:52AM] -- apropos2messagewidget: Apropos2 Message Widget 09: OnWidgetReset

@@ -1,0 +1,29 @@
+{
+	"int" : 
+	{
+		"version" : 106
+	},
+	"stringList" : 
+	{
+		"color" : 
+		[
+			"WHITE",
+			"Black",
+			"Red",
+			"Pink",
+			"Blue",
+			"Teal",
+			"yellow",
+			"Green",
+			"Grey",
+			"Mauve",
+			"purple",
+			"orange",
+			"Brown",
+			"Ivory",
+			"Gold",
+			"Silver",
+			"Bronze"
+		]
+	}
+}

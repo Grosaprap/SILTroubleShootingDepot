@@ -1,0 +1,106 @@
+imagebase = 00007FF637FF0000 ===============
+reloc mgr imagebase = 00007FF637FF0000 ==============
+INI version: 4
+---
+sig: F6 C1 04 74 65 4C 8B B7 18 01 00 00 4D 85 F6 74 59 49 8B D6 48 8B 0D ? ? ? ? E8 ? ? ? ? 0F B6 F0 49 8D 4E 30 84 C0 74 16
+effective address: 00007FF63AF16EF8
+RVAScan: 0x02F26EF8
+---
+RelocPtr<void *>::operator ==02F26EF8
+---
+sig: 74 1A 8B 15 ? ? ? ? 48 8B C8 E8 ? ? ? ? 48 8D 05 ? ? ? ? 48 89 03 EB 02 33 DB 48 89 1D ? ? ? ? 48 83 C4 30
+effective address: 00007FF63AEB58B0
+RVAScan: 0x02EC58B0
+---
+RelocPtr<class SettingCollectionMap *>::operator ==02EC58B0
+---
+sig: 48 85 C0 74 33 66 0F 6E C3 0F 5B C0 F3 0F 58 40 34 F3 0F 11 40 34 48 83 C4 20 5B C3 48 8B 15 ? ? ? ? 0F B6 8A 01 0B 00 00 8B C1 03 C3 78 08 02 CB 88 8A 01 0B 00 00
+effective address: 00007FF6388B70DF
+RVAScan: 0x008C70DF
+---
+RelocAddr<unsigned __int64 *>::operator ==008C70DF
+---
+sig: 48 81 C1 B0 00 00 00 41 0F 29 73 D8 45 0F 29 43 B8 48 8B 01 FF 50 18 F3 44 0F 10 ? ? ? ? 00 0F 28 F0 41 0F 2F F0 0F 83 74 02 00 00 48 8D 44 24 3C
+effective address: 00007FF6386D6218
+RVAScan: 0x006E6218
+---
+RelocAddr<unsigned __int64 *>::operator ==006E6218
+---
+sig: 0F 82 85 00 00 00 48 8B 0D ? ? ? ? 48 81 C1 B0 00 00 00 48 8B 01 F3 0F 10 15 ? ? ? ? 8B 56 1C FF 50 20 48 8B 05 ? ? ? ? 8B 56 1C 48 8B 88 B0 09 00 00
+effective address: 00007FF6388BAE8D
+RVAScan: 0x008CAE8D
+---
+RelocAddr<unsigned __int64 *>::operator ==008CAE8D
+---
+sig: 8B D0 48 8D 8F B0 00 00 00 FF 53 18 0F 2F 05 ? ? ? ? 0F 82 10 0A 00 00 45 33 FF 4C 89 7D 80 44 89 7D 88 45 33 C0 48 8B 15 ? ? ? ? 48 8D 4D 80
+effective address: 00007FF6388B0EE5
+RVAScan: 0x008C0EE5
+---
+RelocAddr<unsigned __int64 *>::operator ==008C0EE5
+---
+sig: 48 8B 0D ? ? ? ? 48 81 C1 B0 00 00 00 48 8B 01 8B D6 FF 50 18 0F 2F 05 ? ? ? ? 72 64 48 8D 05 ? ? ? ? 48 89 85 C0 00 00 00 4C 89 64 24 20
+effective address: 00007FF6388B2CE6
+RVAScan: 0x008C2CE6
+---
+RelocAddr<unsigned __int64 *>::operator ==008C2CE6
+---
+sig: 48 8B 89 B0 09 00 00 B8 01 00 00 00 44 3B C0 44 0F 42 C0 E9 ? ? ? ?
+effective address: 00007FF638692580
+RVAScan: 0x006A2580
+---
+RelocAddr<void (__cdecl*)(void *,unsigned long,unsigned long)>::operator ==006A2580
+---
+sig: 4C 8B DC 55 56 41 56 48 81 EC 60 01 00 00 8D 42 FA 41 0F 29 7B C8 49 8B E9 0F 28 FA 8B F2 4C 8B F1 83 F8 11 0F 87 B9 02 00 00
+effective address: 00007FF6386D61D0
+RVAScan: 0x006E61D0
+---
+RelocAddr<void (__cdecl*)(void *,unsigned long,float,unsigned __int64,unsigned long,unsigned char,bool)>::operator ==006E61D0
+---
+sig: 0F B6 DA 48 8B F9 48 8B 15 ? ? ? ? 48 81 C2 28 01 00 00 48 8B 0D ? ? ? ? E8 ? ? ? ? 84 C0 0F 84 BA 00 00 00 84 DB 0F 85 AA 00 00 00
+effective address: 00007FF638883F80
+RVAScan: 0x00893F80
+---
+RelocAddr<unsigned __int64 (__cdecl*)(void *,unsigned char)>::operator ==00893F80
+---
+sig: 81 F9 A3 00 00 00 77 52 48 8B 05 ? ? ? ? 48 63 C9 4C 8B 54 C8 08 4D 85 D2 74 3E 49 8B 82 08 01 00 00 48 85 C0 74 32
+effective address: 00007FF6383D3640
+RVAScan: 0x003E3640
+---
+RelocAddr<bool (__cdecl*)(unsigned long,float *,float *,float *,float *)>::operator ==003E3640
+---
+sig: 84 C0 74 24 48 8B CB E8 ? ? ? ? 0F B7 C8 48 8B D7 E8 ? ? ? ? 84 C0 74 0D B0 01 48 8B 5C 24 30 48 83 C4 20 5F C3
+effective address: 00007FF6385C62E0
+RVAScan: 0x005D62E0
+---
+RelocAddr<unsigned short (__cdecl*)(void *)>::operator ==005D62E0
+---
+sig: F3 0F 58 D3 0F 28 E0 0F 29 34 24 0F 57 F6 0F 28 CA F3 0F 58 CB F3 0F 59 CA F3 0F 59 CD F3 0F 2C C1 66 0F 6E C0 0F 5B C0 F3 0F 5C C8 0F 2F CE 73 04 F3 0F 5C C3
+effective address: 00007FF6386D7430
+RVAScan: 0x006E7430
+---
+RelocAddr<float (__cdecl*)(float)>::operator ==006E7430
+---
+sig: 4C 8B 44 F8 08 41 8B 40 60 C1 E8 12 A8 01 74 38 48 8B 49 40 48 85 C9 74 2F 48 83 79 50 00 74 28 40 B5 01 0F 57 C0 F3 0F 11 44 24 78 4C 8D 44 24 78 8B D7
+effective address: 00007FF638610D60
+RVAScan: 0x00620D60
+---
+RelocAddr<float (__cdecl*)(void *,unsigned long)>::operator ==00620D60
+---
+sig: 48 89 5C 24 18 48 89 74 24 20 57 48 83 EC 30 48 63 DA 4C 8D 44 24 40 48 8B F9 0F 57 C0 8B D3 F3 0F 11 44 24 40 48 81 C1 50 01 00 00 E8 ? ? ? ? 84 C0 0F 85 DE 00 00 00
+effective address: 00007FF638610F30
+RVAScan: 0x00620F30
+---
+RelocAddr<float (__cdecl*)(void *,unsigned long)>::operator ==00620F30
+---
+sig: 48 83 EC 48 0F 29 74 24 30 0F 29 7C 24 20 0F 28 F8 F3 0F 10 05 ? ? ? ? F3 0F 59 C1 F3 0F 10 0D ? ? ? ? E8 ? ? ? ? F3 0F 10 35 ? ? ? ? F3 0F 10 0D ? ? ? ?
+effective address: 00007FF6383B0E40
+RVAScan: 0x003C0E40
+---
+RelocAddr<float (__cdecl*)(float,float)>::operator ==003C0E40
+---
+sig: 40 53 48 83 EC 20 48 8B 01 48 63 DA 8B D3 FF 50 08 48 8B 05 ? ? ? ? 48 8B 4C D8 08 8B 51 60 8B C2 C1 E8 04 A8 01 74 1E F3 0F 10 0D ? ? ? ? 0F 2F C1 73 44 0F 57 D2 0F 2F C2 73 3F
+effective address: 00007FF6383D5250
+RVAScan: 0x003E5250
+---
+RelocAddr<float (__cdecl*)(class ActorValueOwner *,unsigned long)>::operator ==003E5250
+Init complete

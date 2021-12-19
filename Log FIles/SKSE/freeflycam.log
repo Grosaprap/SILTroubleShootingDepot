@@ -1,0 +1,22 @@
++++++ Free Fly Cam v12 +++++
+-      by kingeric1992 (Nov.26.2019)
+- http://enbseries.enbdev.com/forum/viewtopic.php?f=6&p=79170
+-
+- [using]:
+-     MinHook:
+-         https://github.com/TsudaKageyu/minhook
+-             Copyright(C) 2009 - 2017 Tsuda Kageyu.
+-
+-     Skyrim Script Extender:
+-         http://skse.silverlock.org/
+-             by Ian Patterson, Stephen Abel, Paul Connelly, and Brendan Borthwick
+-                (ianpatt, behippo, scruggsywuggsy the ferret, and purple lunchbox)
+-
+-     simpleini:
+-         https://github.com/brofield/simpleini
+-             Copyright (c) 2006-2013 Brodie Thiesfield
+[log]:
+DirectInput8Create hooked.
+XInputGetState hooked.
+Input hooked
+

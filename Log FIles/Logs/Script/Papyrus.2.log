@@ -1,0 +1,59 @@
+[12/18/2021 - 03:06:28AM] Papyrus log opened (PC)
+[12/18/2021 - 03:06:28AM] Update budget: 1.200000ms (Extra tasklet budget: 1.200000ms, Load screen budget: 2000.000000ms)
+[12/18/2021 - 03:06:28AM] Memory page: 128 (min) 512 (max) 153600 (max total)
+[12/18/2021 - 03:06:29AM] Cannot open store for class "xs2__prkf_xmapassivefingersmi_05112b24", missing file?
+[12/18/2021 - 03:06:29AM] Cannot open store for class "xxx_prkf_xxxpassivefingersmit_020a3756", missing file?
+[12/18/2021 - 03:06:30AM] Cannot open store for class "ddunequiphandlerscript", missing file?
+[12/18/2021 - 03:06:30AM] Cannot open store for class "ddunequipmcmscript", missing file?
+[12/18/2021 - 03:06:43AM] Cannot open store for class "ZazOnTriggerEnterBindingsTMG", missing file?
+[12/18/2021 - 03:06:44AM] Cannot open store for class "fnissmquestscript", missing file?
+[12/18/2021 - 03:06:44AM] Cannot open store for class "fnissmconfigmenu", missing file?
+[12/18/2021 - 03:06:44AM] Cannot open store for class "bskwispstalkactivatorscript", missing file?
+[12/18/2021 - 03:06:44AM] Cannot open store for class "wispcorescript_lyu", missing file?
+[12/18/2021 - 03:06:44AM] Cannot open store for class "ccbgssse025_harvestableactivator", missing file?
+[12/18/2021 - 03:06:45AM] Cannot open store for class "LightingBall", missing file?
+[12/18/2021 - 03:06:45AM] Cannot open store for class "LightingBallController", missing file?
+[12/18/2021 - 03:06:47AM] Cannot open store for class "mzinbathequest", missing file?
+[12/18/2021 - 03:06:49AM] Cannot open store for class "TFLocalBrewDrunkenness", missing file?
+[12/18/2021 - 03:06:49AM] Cannot open store for class "hismodoptionsscript", missing file?
+[12/18/2021 - 03:06:49AM] Cannot open store for class "hisrealisticskinningscript", missing file?
+[12/18/2021 - 03:06:49AM] Cannot open store for class "hisstatsnotescript1", missing file?
+[12/18/2021 - 03:06:49AM] Cannot open store for class "hishbskinningscript", missing file?
+[12/18/2021 - 03:06:52AM] Cannot open store for class "LrsamwaysModFeaturesCrafting", missing file?
+[12/18/2021 - 03:06:56AM] Cannot open store for class "daymoyl_QuestTemplate", missing file?
+[12/18/2021 - 03:06:56AM] Error: Unable to link "daymoyl_QuestTemplate" - the parent of "SSLV_DAIntScript".
+[12/18/2021 - 03:06:56AM] Error: Unable to bind script SSLV_DAIntScript to SSLV_DAInt (C000FB14) because their base types do not match
+[12/18/2021 - 03:06:56AM] Cannot open store for class "daymoyl_PlayerValidateQuestAlias", missing file?
+[12/18/2021 - 03:06:56AM] Cannot open store for class "TIF__07039ECA", missing file?
+[12/18/2021 - 03:06:56AM] Error: Unable to bind script TIF__07039ECA to topic info CB039ECA on <nullptr quest> because their base types do not match
+[12/18/2021 - 03:06:56AM] Cannot open store for class "TIF__07243FD4", missing file?
+[12/18/2021 - 03:06:56AM] Error: Unable to bind script TIF__07243FD4 to topic info CB243FD4 on <nullptr quest> because their base types do not match
+[12/18/2021 - 03:06:58AM] Cannot open store for class "EggFactoryLaborScript", missing file?
+[12/18/2021 - 03:06:59AM] Cannot open store for class "_JSW_BB_Storage", missing file?
+[12/18/2021 - 03:07:02AM] Cannot open store for class "tweakdfscript", missing file?
+[12/18/2021 - 03:07:02AM] Cannot open store for class "RuseCheckForTent", missing file?
+[12/18/2021 - 03:07:03AM] Cannot open store for class "sam_questscript", missing file?
+[12/18/2021 - 03:07:03AM] Cannot open store for class "arxframeworkscr", missing file?
+[12/18/2021 - 03:07:03AM] Cannot open store for class "MC_SCRIPT_ConvertSoulGemFragments", missing file?
+[12/18/2021 - 03:07:03AM] Error: Unable to bind script jaxonzconsoleplugin to JaxonzRenamerQuest (FE0F2D62) because their base types do not match
+[12/18/2021 - 03:07:03AM] Error: Unable to bind script JaxonzRenamerObject to JaxonzRenamerQuest (FE0F2D62) because their base types do not match
+[12/18/2021 - 03:07:03AM] data\SCRIPTS\CLWA_PF_LaharStory02Quest_MoveToHeading.pex : Error: Unable to find object "CLWA_PF_LaharStory02Quest_MoveToHeading"
+[12/18/2021 - 03:07:03AM] Error: Unable to bind script CLWA_PF_LaharStory02Quest_MoveToHeading to  (8F4E8525) because their base types do not match
+[12/18/2021 - 03:07:13AM] Error: Unable to bind script DLC1SkeletonAmbushScript to  (6E7ED8A6) because their base types do not match
+[12/18/2021 - 03:07:13AM] Error: Unable to bind script DLC1SkeletonAmbushScript to  (6E7ED8AC) because their base types do not match
+[12/18/2021 - 03:07:13AM] Error: Unable to bind script DLC1SkeletonAmbushScript to  (6E7ED8AF) because their base types do not match
+[12/18/2021 - 03:07:13AM] Error: Unable to bind script DLC1SkeletonAmbushScript to  (6E7F2AFF) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02D3BF) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02D3C0) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02E826) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02E827) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02E828) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02E825) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02D3C1) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02DBD0) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02DBCF) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02DBCE) because their base types do not match
+[12/18/2021 - 03:07:14AM] Error: Unable to bind script defaultOnHitActivateLinkedRef to  (6D02DBD1) because their base types do not match
+[12/18/2021 - 03:07:15AM] Error: Unable to bind script LrsamwaysModFeaturesCrafting to  (9A0762A9) because their base types do not match
+[12/18/2021 - 03:07:15AM] Cannot open store for class "WS_KillTriggerRefScript", missing file?
+[12/18/2021 - 03:07:15AM] Error: Unable to bind script WS_KillTriggerRefScript to  (E23D6359) because their base types do not match

@@ -1,0 +1,6 @@
+src\main.cpp(43): [MESSAGE] ScaleformTranslationPP v1.4.1.0
+src\main.cpp(66): [MESSAGE] ScaleformTranslationPP loaded
+src\SKSE\Trampoline.cpp(518): [TRAMPOLINE] Default Trampoline => 0B / 16B (00.00%)
+src\SKSE\Trampoline.cpp(518): [TRAMPOLINE] Default Trampoline => 14B / 16B (87.50%)
+src\Hooks.cpp(42): [MESSAGE] Installed hooks for (class Hooks::`anonymous namespace'::BSScaleformMovieLoaderEx)
+src\Hooks.cpp(55): [MESSAGE] Installed all hooks

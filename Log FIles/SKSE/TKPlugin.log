@@ -1,0 +1,4 @@
+TKPlugin.dll
+register papyrus
+detect TKDodge.esp
+add event sink

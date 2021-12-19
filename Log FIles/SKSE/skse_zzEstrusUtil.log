@@ -1,0 +1,137 @@
+new zzEstrusUtil.dll
+iniFilePath = D:\DNDDC\Stock Game\Data\SKSE\plugins\zzEstrusUtil.ini
+FollowerCollection::readIniFile:	GET_FOLLOWER_FROM_OTHER_MOD	ON
+FollowerCollection::readIniFile:	FILE_UPPER_LIMIT_SIZE	3145728
+FollowerCollection::readIniFile:	000198B0	0001325F	follower	                              Skyrim.esm	Ahtar	exist
+FollowerCollection::readIniFile:	00019DF7	0001336B	follower	                              Skyrim.esm	Mjoll the Lioness	exist
+FollowerCollection::readIniFile:	000198FA	00013390	follower	                              Skyrim.esm	Cosnach	exist
+FollowerCollection::readIniFile:	00013491	0001347F	follower	                              Skyrim.esm	Sven	exist
+FollowerCollection::readIniFile:	0001348C	00013480	follower	                              Skyrim.esm	Faendal	exist
+FollowerCollection::readIniFile:	0001AA65	000135E8	follower	                              Skyrim.esm	Benor	NOT EXIST
+FollowerCollection::readIniFile:	0001B092	00013666	follower	                              Skyrim.esm	Annekke Crag-Jumper	exist
+FollowerCollection::readIniFile:	00019930	00013B81	follower	                              Skyrim.esm	Ghorbash the Iron Hand	exist
+FollowerCollection::readIniFile:	0001B08D	0001403E	follower	                              Skyrim.esm	Derkeethus	NOT EXIST
+FollowerCollection::readIniFile:	0001B084	0001403F	follower	                              Skyrim.esm	Roggi Knot-Beard	exist
+FollowerCollection::readIniFile:	0001B13E	0001411D	follower	                              Skyrim.esm	Adelaisa Vendicci	exist
+FollowerCollection::readIniFile:	0001BB8E	0001990F	follower	                              Skyrim.esm	Eola	exist
+FollowerCollection::readIniFile:	0005B688	00019959	follower	                              Skyrim.esm	Borgakh the Steel Heart	exist
+FollowerCollection::readIniFile:	00019E1B	00019E1A	follower	                              Skyrim.esm	Ugor	exist
+FollowerCollection::readIniFile:	00019E1F	00019E1E	follower	                              Skyrim.esm	Lob	exist
+FollowerCollection::readIniFile:	00019E23	00019E22	follower	                              Skyrim.esm	Ogol	exist
+FollowerCollection::readIniFile:	0001A693	0001A692	follower	                              Skyrim.esm	Farkas	exist
+FollowerCollection::readIniFile:	0001A695	0001A694	follower	                              Skyrim.esm	Vilkas	exist
+FollowerCollection::readIniFile:	0001A697	0001A696	follower	                              Skyrim.esm	Aela the Huntress	exist
+FollowerCollection::readIniFile:	0001A6D6	0001A6D5	follower	                              Skyrim.esm	Athis	exist
+FollowerCollection::readIniFile:	0001A6D8	0001A6D7	follower	                              Skyrim.esm	Ria	exist
+FollowerCollection::readIniFile:	0001A6DA	0001A6D9	follower	                              Skyrim.esm	Njada Stonearm	exist
+FollowerCollection::readIniFile:	0001A6DC	0001A6DB	follower	                              Skyrim.esm	Torvar	exist
+FollowerCollection::readIniFile:	0001C1A2	0001C194	follower	                              Skyrim.esm	Onmund	exist
+FollowerCollection::readIniFile:	0001C1A3	0001C195	follower	                              Skyrim.esm	J'zargo	exist
+FollowerCollection::readIniFile:	0001C1A4	0001C196	follower	                              Skyrim.esm	Brelyna Maryon	exist
+FollowerCollection::readIniFile:	00024280	0002427D	follower	                              Skyrim.esm	Erandur	exist
+FollowerCollection::readIniFile:	0004B22E	00048C2F	follower	                              Skyrim.esm	Illia	exist
+FollowerCollection::readIniFile:	000656E2	00065657	follower	                              Skyrim.esm	Erik the Slayer	exist
+FollowerCollection::readIniFile:	00091918	000918E2	follower	                              Skyrim.esm	Uthgerd the Unbroken	exist
+FollowerCollection::readIniFile:	000A2C92	000A2C8C	follower	                              Skyrim.esm	Argis the Bulwark	NOT EXIST
+FollowerCollection::readIniFile:	000A2C94	000A2C8E	follower	                              Skyrim.esm	Lydia	exist
+FollowerCollection::readIniFile:	000A2C95	000A2C8F	follower	                              Skyrim.esm	Jordis the Sword-Maiden	exist
+FollowerCollection::readIniFile:	000A2C96	000A2C90	follower	                              Skyrim.esm	Calder	exist
+FollowerCollection::readIniFile:	000A2C93	000A2C91	follower	                              Skyrim.esm	Iona	exist
+FollowerCollection::readIniFile:	000B9984	000B997F	follower	                              Skyrim.esm	Vorstag	exist
+FollowerCollection::readIniFile:	000B9986	000B9980	follower	                              Skyrim.esm	Marcurio	exist
+FollowerCollection::readIniFile:	000B9988	000B9981	follower	                              Skyrim.esm	Belrand	exist
+FollowerCollection::readIniFile:	000E1BA9	000B9982	follower	                              Skyrim.esm	Jenassa	exist
+FollowerCollection::readIniFile:	000B998C	000B9983	follower	                              Skyrim.esm	Stenvar	exist
+FollowerCollection::readIniFile:	02003474	0200336E	follower	                           Dawnguard.esm	Agmaer	exist
+FollowerCollection::readIniFile:	02015C17	0201541B	follower	                           Dawnguard.esm	Ingjard	NOT EXIST
+FollowerCollection::readIniFile:	02015C14	0201541C	follower	                           Dawnguard.esm	Beleval	NOT EXIST
+FollowerCollection::readIniFile:	02015C16	0201541D	follower	                           Dawnguard.esm	Durak	NOT EXIST
+FollowerCollection::readIniFile:	02015C15	0201541E	follower	                           Dawnguard.esm	Celann	exist
+FollowerCollection::readIniFile:	03005216	03005215	follower	                         HearthFires.esm	Rayya	exist
+FollowerCollection::readIniFile:	0300521D	0300521B	follower	                         HearthFires.esm	Valdimar	exist
+FollowerCollection::readIniFile:	0300521F	0300521E	follower	                         HearthFires.esm	Gregor	exist
+FollowerCollection::readIniFile:	040177DB	04017777	follower	                          Dragonborn.esm	Talvas Fathryon	exist
+FollowerCollection::readIniFile:	04017A0D	04017934	follower	                          Dragonborn.esm	Frea	exist
+FollowerCollection::readIniFile:	040208D6	040208D8	follower	                          Dragonborn.esm		NOT EXIST
+FollowerCollection::readIniFile:	040208D7	040208D8	follower	                          Dragonborn.esm		NOT EXIST
+FollowerCollection::readIniFile:	04038565	04038560	follower	                          Dragonborn.esm	Teldryn Sero	NOT EXIST
+FollowerCollection::readIniFile:	040208D5	04038AB5	follower	                          Dragonborn.esm		NOT EXIST
+FollowerCollection::readIniFile:	04038C09	04038C0D	follower	                          Dragonborn.esm		exist
+FollowerCollection::readIniFile:	04038C0A	04038C0D	follower	                          Dragonborn.esm		exist
+FollowerCollection::readIniFile:	04038C0B	04038C0D	follower	                          Dragonborn.esm		exist
+FollowerCollection::collectionAll():	Skyrim.esm is Default DLC file
+TESFileReader::D:\DNDDC\Stock Game\data\Update.esm's file size(18090304) exceeds the upper limit(3145728)
+FollowerCollection::collectionAll():	Dawnguard.esm is Default DLC file
+FollowerCollection::collectionAll():	HearthFires.esm is Default DLC file
+FollowerCollection::collectionAll():	Dragonborn.esm is Default DLC file
+TESFileReader::D:\DNDDC\Stock Game\data\3DNPC.esp's file size(22061995) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\Forgotten DungeonsSSE.esm's file size(16608355) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\HammetDungeons.esm's file size(19569979) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\Unofficial Skyrim Special Edition Patch.esp's file size(17481666) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\SMSkyrim.esp's file size(33790162) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\MajesticMountains_Landscape.esm's file size(19544291) exceeds the upper limit(3145728)
+FollowerCollection::collectionAll:	1E0012E2	1E0012E1	follower	                      SkyrimUnhinged.esp	Layrel	exist
+FollowerCollection::collectionAll:	1E0012E4	1E0012E3	follower	                      SkyrimUnhinged.esp	Ytvera	exist
+TESFileReader::D:\DNDDC\Stock Game\data\DepthsOfSkyrim.esp's file size(5020997) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\EasierRidersDungeonPackSSE.esp's file size(4598575) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\Vominheim.esp's file size(9388636) exceeds the upper limit(3145728)
+FollowerCollection::collectionAll:	7509E7D8	7509DD0D	follower	               Deviously Cursed Loot.esp	Sasha	exist
+FollowerCollection::collectionAll:	7502FD2A	7502D74E	follower	               Deviously Cursed Loot.esp	Leon	exist
+FollowerCollection::collectionAll:	750950AF	75094B48	follower	               Deviously Cursed Loot.esp	Leah	exist
+FollowerCollection::collectionAll:	750811C7	750811C6	follower	               Deviously Cursed Loot.esp	Leon	exist
+FollowerCollection::collectionAll:	75095613	75095612	follower	               Deviously Cursed Loot.esp	Leah	exist
+FollowerCollection::collectionAll:	750DCE58	750DC8F1	follower	               Deviously Cursed Loot.esp	Chloe	exist
+FollowerCollection::collectionAll:	0001C1A3	0001C195	follower	                      animal_mansion.esp	J'zargo	exist
+TESFileReader::D:\DNDDC\Stock Game\data\Clockwork.esp's file size(4512924) exceeds the upper limit(3145728)
+FollowerCollection::collectionAll:	0001B092	00013666	follower	            SexLab-AmorousAdventures.esp	Annekke Crag-Jumper	exist
+FollowerCollection::collectionAll:	000E1BA9	000B9982	follower	            SexLab-AmorousAdventures.esp	Jenassa	exist
+FollowerCollection::collectionAll:	0005B688	00019959	follower	            SexLab-AmorousAdventures.esp	Borgakh the Steel Heart	exist
+FollowerCollection::collectionAll:	000A2C95	000A2C8F	follower	            SexLab-AmorousAdventures.esp	Jordis the Sword-Maiden	exist
+FollowerCollection::collectionAll:	926E77F8	926E77F7	follower	            SexLab-AmorousAdventures.esp	Elisif the Fair	exist
+FollowerCollection::collectionAll:	000B9984	000B997F	follower	                                TBOS.esp	Vorstag	exist
+FollowerCollection::collectionAll:	9B229A19	9B229A1A	follower	                            Niflholm.esp	Fushimi	exist
+FollowerCollection::collectionAll:	9B238E69	9B238E68	follower	                            Niflholm.esp	Misaki	exist
+FollowerCollection::collectionAll:	AA00AA0B	AA005900	follower	              Nykal Vampire follower.esp	Nykal	exist
+FollowerCollection::collectionAll:	AB00183A	AB000D6F	follower	                        ERF - Ceraph.esp	Ceraph	exist
+FollowerCollection::collectionAll:	AC001838	AC000D69	follower	                          VR_Tannick.esp	Tannick	exist
+FollowerCollection::collectionAll:	AC001D9D	AC001D9B	follower	                          VR_Tannick.esp	Kristof	exist
+FollowerCollection::collectionAll:	C0025309	C000232C	follower	                       SimpleSlavery.esp	Slave	exist
+FollowerCollection::collectionAll:	C004DD33	C00178A8	follower	                       SimpleSlavery.esp	Meagan Anways	exist
+FollowerCollection::collectionAll:	C004DD34	C0035460	follower	                       SimpleSlavery.esp	Benedict Anwys	exist
+FollowerCollection::collectionAll:	C004DD35	C0019923	follower	                       SimpleSlavery.esp	Slaren Torque	exist
+FollowerCollection::collectionAll:	C004DD36	C0035461	follower	                       SimpleSlavery.esp	Slareni Torque	exist
+FollowerCollection::collectionAll:	C004DD37	C001C475	follower	                       SimpleSlavery.esp	Ali Sloat	exist
+FollowerCollection::collectionAll:	C004DD38	C0035462	follower	                       SimpleSlavery.esp	Albion Sloat	exist
+FollowerCollection::collectionAll:	C004DD39	C001C476	follower	                       SimpleSlavery.esp	Joanil Craonl	exist
+FollowerCollection::collectionAll:	C004DD3A	C0035463	follower	                       SimpleSlavery.esp	Jona Coldmoon	exist
+FollowerCollection::collectionAll:	C004DD3B	C001C477	follower	                       SimpleSlavery.esp	Jaosin Lown	exist
+FollowerCollection::collectionAll:	C004DD3C	C0035464	follower	                       SimpleSlavery.esp	Jaosi Lown	exist
+FollowerCollection::collectionAll:	C004DD3D	C001C478	follower	                       SimpleSlavery.esp	Adsone Olnwei	exist
+FollowerCollection::collectionAll:	C004DD3F	C0035465	follower	                       SimpleSlavery.esp	Adson Olnwei	exist
+FollowerCollection::collectionAll:	C004DD40	C001C474	follower	                       SimpleSlavery.esp	Okas Sirlo	exist
+FollowerCollection::collectionAll:	C004DD41	C0035466	follower	                       SimpleSlavery.esp	Oka Sirlo	exist
+FollowerCollection::collectionAll:	C5004E10	C5000D64	follower	                            PAN_Azuk.esp	Azuk gro-Muk	exist
+FollowerCollection::collectionAll:	C60073C1	C6000D64	follower	                           PAN_Vimar.esp	Vimar Ice-Blood	exist
+FollowerCollection::collectionAll:	02015C15	0201541E	follower	                    SLSFFameComments.esp	Celann	exist
+FollowerCollection::collectionAll:	02003474	0200336E	follower	                    SLSFFameComments.esp	Agmaer	exist
+FollowerCollection::collectionAll:	000E1BA9	000B9982	follower	                    SLSFFameComments.esp	Jenassa	exist
+FollowerCollection::collectionAll:	000B9988	000B9981	follower	                    SLSFFameComments.esp	Belrand	exist
+FollowerCollection::collectionAll:	000A2C95	000A2C8F	follower	                    SLSFFameComments.esp	Jordis the Sword-Maiden	exist
+FollowerCollection::collectionAll:	CC5A1E2D	CC59CD2B	follower	                SexLab Confabulation.esp	Tamed Wolf	exist
+FollowerCollection::collectionAll:	CC043F9C	CC043A34	follower	                SexLab Confabulation.esp	Dremora	exist
+FollowerCollection::collectionAll:	CC043F9D	CC043A35	follower	                SexLab Confabulation.esp	Dremora	exist
+FollowerCollection::collectionAll:	CC043F9B	CC043A33	follower	                SexLab Confabulation.esp	Dremora	exist
+FollowerCollection::collectionAll:	CC6D1BB4	CC6D1BB2	follower	                SexLab Confabulation.esp	Tamed Wolf	exist
+FollowerCollection::collectionAll:	CC6D1BB3	CC6D1BB1	follower	                SexLab Confabulation.esp	Tamed Wolf	exist
+FollowerCollection::collectionAll:	000B998C	000B9983	follower	                    DeviousFollowers.esp	Stenvar	exist
+FollowerCollection::collectionAll:	000B9986	000B9980	follower	                    DeviousFollowers.esp	Marcurio	exist
+FollowerCollection::collectionAll:	000B9984	000B997F	follower	                    DeviousFollowers.esp	Vorstag	exist
+FollowerCollection::collectionAll:	000E1BA9	000B9982	follower	                    DeviousFollowers.esp	Jenassa	exist
+FollowerCollection::collectionAll:	000B9988	000B9981	follower	                    DeviousFollowers.esp	Belrand	exist
+FollowerCollection::collectionAll:	E707F963	E707F962	follower	                AlternatePerspective.esp	Follower	exist
+FollowerCollection::collectionAll:	E707F964	E707F962	follower	                AlternatePerspective.esp	Follower	exist
+TESFileReader::D:\DNDDC\Stock Game\data\JKs Skyrim.esp's file size(3157818) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\Lux.esp's file size(4873183) exceeds the upper limit(3145728)
+TESFileReader::D:\DNDDC\Stock Game\data\DynDOLOD.esp's file size(4371956) exceeds the upper limit(3145728)
+Male Follower count = 60
+Female Follower count = 43

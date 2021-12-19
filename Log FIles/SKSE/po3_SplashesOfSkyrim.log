@@ -1,0 +1,9 @@
+[info] po3_SplashesOfSkyrim v1.5.0
+[info] loaded plugin
+[info] Default Trampoline => 0B / 48B (00.00%)
+[info] Installed class ProjectileManager<class RE::MissileProjectile,0>
+[info] Installed class ProjectileManager<class RE::FlameProjectile,1>
+[info] Installed class ProjectileManager<class RE::ConeProjectile,2>
+[info] Installed class ProjectileManager<class RE::ArrowProjectile,3>
+[info] Default Trampoline => 14B / 48B (29.17%)
+[info] Patching 96 water records to use displacement

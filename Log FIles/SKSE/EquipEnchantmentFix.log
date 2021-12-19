@@ -1,0 +1,5 @@
+Initializing EquipEnchantmentFix version 1.2.4 (runtime 1.5.97.0)
+OnEffectRemoved ON
+DispelWornItemEnchantsVisitor ON
+OnActorLoad ON
+Done

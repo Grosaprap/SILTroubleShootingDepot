@@ -1,0 +1,23 @@
+main.cpp(101): [info] moreHUD v4.0.0.5
+main.cpp(139): [info] moreHUD loading
+Trampoline.cpp(114): [info] Default Trampoline => 0B / 64B (00.00%)
+main.cpp(157): [info] registered listener
+Papyrus.cpp(13): [info] registered papyrus PapyrusMoreHud funcs
+main.cpp(165): [info] Installing patched
+Trampoline.cpp(114): [info] Default Trampoline => 42B / 64B (65.62%)
+Trampoline.cpp(114): [info] Default Trampoline => 56B / 64B (87.50%)
+Patches.cpp(15): [info] Installed all patches
+main.cpp(168): [info] Registering Callbacks
+Scaleform.cpp(277): [info] Registered all scaleform callbacks
+main.cpp(171): [info] moreHUD loaded
+AHZVanillaFormTable.cpp(101): [info] Loading Vanilla ACTI Forms...
+AHZVanillaFormTable.cpp(120): [info] Loading Vanilla VM Script Variables...
+main.cpp(42): [info] Processing any third party .mhud files that may exist...
+AHZUtilities.cpp(11): [info] Search the 'D:\DNDDC\Stock Game\Data\' directory...
+main.cpp(51): [info] No third party .mHud files where detected.
+main.cpp(60): [info] Third party .mHud file processing completed.
+main.cpp(63): [info] Registering Events
+Events.cpp(60): [info] Registered struct SKSE::CrosshairRefEvent
+Events.cpp(91): [info] registered crosshair event
+Events.cpp(93): [info] registered menu event
+Events.cpp(95): [info] Installed all event sinks

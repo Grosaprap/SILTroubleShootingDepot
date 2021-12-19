@@ -1,0 +1,36 @@
+E:\Repos\TrueDirectionalMovement\src\main.cpp(161): [info] TrueDirectionalMovement v1.3.0
+E:\Repos\TrueDirectionalMovement\src\main.cpp(183): [info] TrueDirectionalMovement loaded
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 0B / 256B (00.00%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 14B / 256B (05.47%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 22B / 256B (08.59%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 36B / 256B (14.06%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 44B / 256B (17.19%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 58B / 256B (22.66%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 72B / 256B (28.12%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 86B / 256B (33.59%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 100B / 256B (39.06%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 114B / 256B (44.53%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 128B / 256B (50.00%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 142B / 256B (55.47%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 156B / 256B (60.94%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 170B / 256B (66.41%)
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 184B / 256B (71.88%)
+E:\Repos\TrueDirectionalMovement\src\Papyrus.cpp(1002): [info] Registered papyrus functions
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Interfaces.cpp(287): [error] Failed to register messaging listener for SmoothCam
+E:\Repos\TrueDirectionalMovement\src\main.cpp(122): [warning] SmoothCamAPI::RegisterInterfaceLoaderCallback reported an error
+E:\Repos\TrueDirectionalMovement\extern\CommonLibSSE\include\SKSE\Interfaces.cpp(268): [error] Failed to dispatch message to SmoothCam
+E:\Repos\TrueDirectionalMovement\src\main.cpp(129): [warning] SmoothCamAPI::RequestInterface reported an error
+E:\Repos\TrueDirectionalMovement\src\Papyrus.cpp(994): [info] Registered TrueDirectionalMovement class
+E:\Repos\TrueDirectionalMovement\src\Events.cpp(19): [info] Registered class RE::InputEvent
+E:\Repos\TrueDirectionalMovement\src\Events.cpp(271): [info] Registered struct SKSE::CrosshairRefEvent
+E:\Repos\TrueDirectionalMovement\src\Events.cpp(296): [info] Registered struct RE::TESCombatEvent
+E:\Repos\TrueDirectionalMovement\src\Events.cpp(298): [info] Registered struct RE::TESDeathEvent
+E:\Repos\TrueDirectionalMovement\src\Events.cpp(300): [info] Registered struct RE::TESEnterBleedoutEvent
+E:\Repos\TrueDirectionalMovement\src\Events.cpp(302): [info] Registered struct RE::TESHitEvent
+E:\Repos\TrueDirectionalMovement\src\Events.cpp(452): [info] Registered all event handlers
+E:\Repos\TrueDirectionalMovement\src\Scaleform\TargetLockMenu.cpp(16): [info] Registered TargetLockMenu
+E:\Repos\TrueDirectionalMovement\src\Scaleform\BossMenu.cpp(15): [info] Registered BossMenu
+E:\Repos\TrueDirectionalMovement\src\Scaleform\Scaleform.cpp(12): [info] Registered all movies
+E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2202): [info] Reading .inis...
+E:\Repos\TrueDirectionalMovement\src\DirectionalMovementHandler.cpp(2293): [info] ...success
+E:\Repos\TrueDirectionalMovement\src\main.cpp(100): [info] Finished loading data

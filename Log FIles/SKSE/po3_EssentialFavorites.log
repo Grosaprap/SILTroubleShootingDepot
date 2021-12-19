@@ -1,0 +1,11 @@
+[04:18:59] [info] Essential Favorites 2.0.0.0
+[04:18:59] [info] Essential Favorites loaded
+[04:18:59] [info] Default Trampoline => 0B / 64B (00.00%)
+[04:18:59] [info] config path = D:\DNDDC\Stock Game\Data\SKSE\Plugins\po3_EssentialFavorites.ini
+[04:21:04] [info] patching barter menu
+[04:21:04] [info] Default Trampoline => 14B / 64B (21.88%)
+[04:21:04] [info] patching disarmed
+[04:21:04] [info] patching alchemy menu
+[04:21:04] [info] patching enchanting menu
+[04:21:04] [info] Default Trampoline => 28B / 64B (43.75%)
+[04:21:04] [info] patching crafting menu

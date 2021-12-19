@@ -1,0 +1,8 @@
+EnchantReloadFix SKSE Plugin
+by egocarib - ported to SSE by Vermunds
+
+{ Fixes player-enchanted items having inflated gold value }
+{ and draining higher amounts of charge after game reload }
+
+Initializing...
+Loading...

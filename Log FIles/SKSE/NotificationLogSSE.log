@@ -1,0 +1,5 @@
+src\main.cpp(16): [MESSAGE] NotificationLogSSE v1.2.0.0
+src\main.cpp(39): [MESSAGE] NotificationLogSSE loaded
+src\SKSE\Trampoline.cpp(518): [TRAMPOLINE] Default Trampoline => 0B / 16B (00.00%)
+src\SKSE\Trampoline.cpp(518): [TRAMPOLINE] Default Trampoline => 14B / 16B (87.50%)
+src\NotificationLogger.cpp(12): [MESSAGE] NotificationLogger Initialized

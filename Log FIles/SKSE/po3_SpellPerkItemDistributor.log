@@ -1,0 +1,470 @@
+[04:19:00] [info] po3_SpellPerkItemDistributor v4.2.0.0
+[04:19:00] [info] SpellPerkItem Distributor loaded
+[04:19:00] [info] Default Trampoline => 0B / 32B (00.00%)
+[04:19:00] [info] *************INI**************
+[04:19:00] [info] 6 matching inis found
+[04:19:00] [info] ini : D:\DNDDC\Stock Game\Data\Aetherius_DISTR.ini
+[04:19:00] [info] 	Spell entries found : 0
+[04:19:00] [info] 	Perk entries found : 1
+[04:19:00] [info] 	Item entries found : 0
+[04:19:00] [info] 	Shout entries found : 0
+[04:19:00] [info] 	LevSpell entries found : 0
+[04:19:00] [info] 	Package entries found : 0
+[04:19:00] [info] 	Outfit entries found : 0
+[04:19:00] [info] 	Keyword entries found : 0
+[04:19:00] [info] ini : D:\DNDDC\Stock Game\Data\BladeAndBlunt_DISTR.ini
+[04:19:00] [info] 	Spell entries found : 0
+[04:19:00] [info] 	Perk entries found : 1
+[04:19:00] [info] 	Item entries found : 0
+[04:19:00] [info] 	Shout entries found : 0
+[04:19:00] [info] 	LevSpell entries found : 0
+[04:19:00] [info] 	Package entries found : 0
+[04:19:00] [info] 	Outfit entries found : 0
+[04:19:00] [info] 	Keyword entries found : 0
+[04:19:00] [info] ini : D:\DNDDC\Stock Game\Data\ElementalDestructionMagicReduxSpellsForNPCs_DISTR.ini
+[04:19:00] [info] 	Spell entries found : 26
+[04:19:00] [info] 	Perk entries found : 0
+[04:19:00] [info] 	Item entries found : 0
+[04:19:00] [info] 	Shout entries found : 0
+[04:19:00] [info] 	LevSpell entries found : 0
+[04:19:00] [info] 	Package entries found : 0
+[04:19:00] [info] 	Outfit entries found : 0
+[04:19:00] [info] 	Keyword entries found : 0
+[04:19:00] [info] ini : D:\DNDDC\Stock Game\Data\ODINSpellsForNPCs_DISTR.ini
+[04:19:00] [info] 	Spell entries found : 6
+[04:19:00] [info] 	Perk entries found : 0
+[04:19:00] [info] 	Item entries found : 0
+[04:19:00] [info] 	Shout entries found : 0
+[04:19:00] [info] 	LevSpell entries found : 0
+[04:19:00] [info] 	Package entries found : 0
+[04:19:00] [info] 	Outfit entries found : 0
+[04:19:00] [info] 	Keyword entries found : 0
+[04:19:00] [info] ini : D:\DNDDC\Stock Game\Data\PotionsForNPCs_DISTR.ini
+[04:19:00] [info] 	Spell entries found : 0
+[04:19:00] [info] 	Perk entries found : 0
+[04:19:00] [info] 	Item entries found : 10
+[04:19:00] [info] 	Shout entries found : 0
+[04:19:00] [info] 	LevSpell entries found : 0
+[04:19:00] [info] 	Package entries found : 0
+[04:19:00] [info] 	Outfit entries found : 0
+[04:19:00] [info] 	Keyword entries found : 0
+[04:19:00] [info] ini : D:\DNDDC\Stock Game\Data\SkyRem - Ava_DISTR.ini
+[04:19:00] [info] 	Spell entries found : 0
+[04:19:00] [info] 	Perk entries found : 15
+[04:19:00] [info] 	Item entries found : 0
+[04:19:00] [info] 	Shout entries found : 0
+[04:19:00] [info] 	LevSpell entries found : 0
+[04:19:00] [info] 	Package entries found : 0
+[04:19:00] [info] 	Outfit entries found : 0
+[04:19:00] [info] 	Keyword entries found : 0
+[04:21:04] [info] ************LOOKUP************
+[04:21:04] [info] 	Starting Spell lookup
+[04:21:04] [info] 		Conjure Earth Atronach [0x0004C292] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A58] SUCCESS
+[04:21:04] [info] 				Faction [0x00028508] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x0001F259] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 				Race [0x00013741] SUCCESS
+[04:21:04] [info] 		Conjure Wind Atronach [0x0004BD1E] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A58] SUCCESS
+[04:21:04] [info] 				Faction [0x00028508] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x0001F259] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 				Race [0x00013741] SUCCESS
+[04:21:04] [info] 		Conjure Water Atronach [0x0004ACE0] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A58] SUCCESS
+[04:21:04] [info] 				Faction [0x00028508] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x0001F259] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 				Race [0x00013741] SUCCESS
+[04:21:04] [info] 		Earthquake [0x000166C8] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 		Cyclone [0x000120F2] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Tempest [0x000120F1] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Wall of Wind [0x000120E8] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Wall of Earth [0x000120BF] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Whirlwind Cloak [0x0000F20C] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 		Tornado [0x0000F20A] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Boulder [0x0000F036] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Rock Blast [0x0000D538] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Rock Cloak [0x0000CA6E] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Gravel [0x0000C503] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Zephyr [0x0000C33E] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Gust [0x0000C33D] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Wall of Water [0x0000335F] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 		Torrent [0x0000335A] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Rain Cloak [0x00003359] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 		Geyser [0x00002DF3] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Waterball [0x00002DEE] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 		Rapids [0x00002DED] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Stalagmite [0x00000D65] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Water Thrall [0x0004EDE9] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 		Wind Thrall [0x0004EDE7] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [info] 		Earth Thrall [0x0004EDE6] (Elemental Destruction Magic Redux.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013743] SUCCESS
+[04:21:04] [info] 				Class [0x0001317A] SUCCESS
+[04:21:04] [info] 				Class [0x000E3A71] SUCCESS
+[04:21:04] [info] 				Faction [0x00043599] SUCCESS
+[04:21:04] [error] 		Spell [0x00068E4E] (Odin - Skyrim Magic Overhaul.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Spell [0x0008C58C] (Odin - Skyrim Magic Overhaul.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Spell [0x000967B9] (Odin - Skyrim Magic Overhaul.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Spell [0x000A304F] (Odin - Skyrim Magic Overhaul.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Spell [0x000DD699] (Odin - Skyrim Magic Overhaul.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Spell [0x00047C86] (Odin - Skyrim Magic Overhaul.esp) FAIL - missing or wrong form type
+[04:21:04] [info] 	Starting Perk lookup
+[04:21:04] [info] 		Stalwart [0x0002903A] (Aetherius.esp) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Race [0x00013746] SUCCESS
+[04:21:04] [info] 				Race [0x00088794] SUCCESS
+[04:21:04] [info] 				Race [0x0007EAF3] SUCCESS
+[04:21:04] [info] 		Winded Perk [0x00074F5C] (BladeAndBlunt.esp) SUCCESS
+[04:21:04] [error] 		Perk [0x0000AA4B] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA4C] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA4D] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA4E] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA4F] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA50] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA51] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA52] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA53] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA54] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA55] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA56] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA57] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA58] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [error] 		Perk [0x0000AA59] (Ava.esp) FAIL - missing or wrong form type
+[04:21:04] [info] 	Starting Item lookup
+[04:21:04] [info] 		Grand Potion of Health [0x00039BE4] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x0002BE3B] SUCCESS
+[04:21:04] [info] 				Faction [0x0006B18C] SUCCESS
+[04:21:04] [info] 				Faction [0x0010FE28] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x04024CAB] SUCCESS
+[04:21:04] [info] 				Faction [0x00072834] SUCCESS
+[04:21:04] [info] 				Faction [0x00024029] SUCCESS
+[04:21:04] [info] 				Faction [0x00028713] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x00050920] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x00058B3D] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A4D] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BCC0] SUCCESS
+[04:21:04] [info] 		Consummate Potion of Health [0x00039BE5] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x0002BE3B] SUCCESS
+[04:21:04] [info] 				Faction [0x0006B18C] SUCCESS
+[04:21:04] [info] 				Faction [0x0010FE28] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x04024CAB] SUCCESS
+[04:21:04] [info] 				Faction [0x00072834] SUCCESS
+[04:21:04] [info] 				Faction [0x00024029] SUCCESS
+[04:21:04] [info] 				Faction [0x00028713] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x00050920] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x00058B3D] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A4D] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BCC0] SUCCESS
+[04:21:04] [info] 		Weak Potion of Health [0x0003EADD] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x0002BE3B] SUCCESS
+[04:21:04] [info] 				Faction [0x0006B18C] SUCCESS
+[04:21:04] [info] 				Faction [0x0010FE28] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x04024CAB] SUCCESS
+[04:21:04] [info] 				Faction [0x00072834] SUCCESS
+[04:21:04] [info] 				Faction [0x00024029] SUCCESS
+[04:21:04] [info] 				Faction [0x00028713] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x00050920] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x00058B3D] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A4D] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BCC0] SUCCESS
+[04:21:04] [info] 		Standard Potion of Health [0x0003EADE] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x0002BE3B] SUCCESS
+[04:21:04] [info] 				Faction [0x0006B18C] SUCCESS
+[04:21:04] [info] 				Faction [0x0010FE28] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x04024CAB] SUCCESS
+[04:21:04] [info] 				Faction [0x00072834] SUCCESS
+[04:21:04] [info] 				Faction [0x00024029] SUCCESS
+[04:21:04] [info] 				Faction [0x00028713] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x00050920] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x00058B3D] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A4D] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BCC0] SUCCESS
+[04:21:04] [info] 		Quality Potion of Health [0x0003EADF] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x0002BE3B] SUCCESS
+[04:21:04] [info] 				Faction [0x0006B18C] SUCCESS
+[04:21:04] [info] 				Faction [0x0010FE28] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x04024CAB] SUCCESS
+[04:21:04] [info] 				Faction [0x00072834] SUCCESS
+[04:21:04] [info] 				Faction [0x00024029] SUCCESS
+[04:21:04] [info] 				Faction [0x00028713] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x00050920] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x00058B3D] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A4D] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BCC0] SUCCESS
+[04:21:04] [info] 		Potent Potion of Health [0x0003EAE3] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x0002BE3B] SUCCESS
+[04:21:04] [info] 				Faction [0x0006B18C] SUCCESS
+[04:21:04] [info] 				Faction [0x0010FE28] SUCCESS
+[04:21:04] [info] 				Faction [0x000B3292] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x04024CAB] SUCCESS
+[04:21:04] [info] 				Faction [0x00072834] SUCCESS
+[04:21:04] [info] 				Faction [0x00024029] SUCCESS
+[04:21:04] [info] 				Faction [0x00028713] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x00050920] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x00058B3D] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A4D] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BCC0] SUCCESS
+[04:21:04] [info] 		Weak Potion of Invisibility [0x0003EB3E] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A59] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x00029DA9] SUCCESS
+[04:21:04] [info] 		Quality Potion of Invisibility [0x0003EB3F] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A59] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x00029DA9] SUCCESS
+[04:21:04] [info] 		Standard Potion of Invisibility [0x0003EB40] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A59] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x00029DA9] SUCCESS
+[04:21:04] [info] 		Potent Potion of Invisibility [0x0003EB41] (Skyrim.esm) SUCCESS
+[04:21:04] [info] 			Starting Filter Form lookup
+[04:21:04] [info] 				Faction [0x000E3A56] SUCCESS
+[04:21:04] [info] 				Faction [0x0005091C] SUCCESS
+[04:21:04] [info] 				Faction [0x000BC09E] SUCCESS
+[04:21:04] [info] 				Faction [0x000E3A59] SUCCESS
+[04:21:04] [info] 				Faction [0x0402929A] SUCCESS
+[04:21:04] [info] 				Faction [0x0001BDB3] SUCCESS
+[04:21:04] [info] 				Faction [0x000AA0A4] SUCCESS
+[04:21:04] [info] 				Faction [0x00029DA9] SUCCESS
+[04:21:04] [info] **********PROCESSING**********
+[04:21:04] [info] 	Adding 26/32 spell(s)
+[04:21:04] [info] 	Adding 2/17 perks(s)
+[04:21:04] [info] 	Adding 10/10 items(s)
+[04:21:04] [info] 	Adding 0/0 shouts(s)
+[04:21:04] [info] 	Adding 0/0 leveled spell(s)
+[04:21:04] [info] 	Adding 0/0 package(s)
+[04:21:04] [info] 	Adding 0/0 outfits(s)
+[04:21:04] [info] 	Adding 0/0 keywords(s)
+[04:21:05] [info] ************RESULT************
+[04:21:05] [info] 	Spells
+[04:21:05] [info] 		Conjure Earth Atronach [0x6C04C292] added to 46/14102 NPCs
+[04:21:05] [info] 		Conjure Wind Atronach [0x6C04BD1E] added to 164/14102 NPCs
+[04:21:05] [info] 		Conjure Water Atronach [0x6C04ACE0] added to 258/14102 NPCs
+[04:21:05] [info] 		Earthquake [0x6C0166C8] added to 86/14102 NPCs
+[04:21:05] [info] 		Cyclone [0x6C0120F2] added to 93/14102 NPCs
+[04:21:05] [info] 		Tempest [0x6C0120F1] added to 120/14102 NPCs
+[04:21:05] [info] 		Wall of Wind [0x6C0120E8] added to 131/14102 NPCs
+[04:21:05] [info] 		Wall of Earth [0x6C0120BF] added to 116/14102 NPCs
+[04:21:05] [info] 		Whirlwind Cloak [0x6C00F20C] added to 90/14102 NPCs
+[04:21:05] [info] 		Tornado [0x6C00F20A] added to 96/14102 NPCs
+[04:21:05] [info] 		Boulder [0x6C00F036] added to 138/14102 NPCs
+[04:21:05] [info] 		Rock Blast [0x6C00D538] added to 33/14102 NPCs
+[04:21:05] [info] 		Rock Cloak [0x6C00CA6E] added to 87/14102 NPCs
+[04:21:05] [info] 		Gravel [0x6C00C503] added to 53/14102 NPCs
+[04:21:05] [info] 		Zephyr [0x6C00C33E] added to 41/14102 NPCs
+[04:21:05] [info] 		Gust [0x6C00C33D] added to 57/14102 NPCs
+[04:21:05] [info] 		Wall of Water [0x6C00335F] added to 125/14102 NPCs
+[04:21:05] [info] 		Torrent [0x6C00335A] added to 125/14102 NPCs
+[04:21:05] [info] 		Rain Cloak [0x6C003359] added to 88/14102 NPCs
+[04:21:05] [info] 		Geyser [0x6C002DF3] added to 101/14102 NPCs
+[04:21:05] [info] 		Waterball [0x6C002DEE] added to 21/14102 NPCs
+[04:21:05] [info] 		Rapids [0x6C002DED] added to 59/14102 NPCs
+[04:21:05] [info] 		Stalagmite [0x6C000D65] added to 94/14102 NPCs
+[04:21:05] [info] 		Water Thrall [0x6C04EDE9] added to 75/14102 NPCs
+[04:21:05] [info] 		Wind Thrall [0x6C04EDE7] added to 88/14102 NPCs
+[04:21:05] [info] 		Earth Thrall [0x6C04EDE6] added to 102/14102 NPCs
+[04:21:05] [info] 	Perks
+[04:21:05] [info] 		Stalwart [0xD102903A] added to 2681/14102 NPCs
+[04:21:05] [info] 		Winded Perk [0x61074F5C] added to 9075/14102 NPCs
+[04:21:05] [info] 	Items
+[04:21:05] [info] 		Grand Potion of Health [0x00039BE4] added to 0/14102 NPCs
+[04:21:05] [info] 		Consummate Potion of Health [0x00039BE5] added to 460/14102 NPCs
+[04:21:05] [info] 		Weak Potion of Health [0x0003EADD] added to 234/14102 NPCs
+[04:21:05] [info] 		Standard Potion of Health [0x0003EADE] added to 130/14102 NPCs
+[04:21:05] [info] 		Quality Potion of Health [0x0003EADF] added to 472/14102 NPCs
+[04:21:05] [info] 		Potent Potion of Health [0x0003EAE3] added to 316/14102 NPCs
+[04:21:05] [info] 		Weak Potion of Invisibility [0x0003EB3E] added to 2/14102 NPCs
+[04:21:05] [info] 		Quality Potion of Invisibility [0x0003EB3F] added to 0/14102 NPCs
+[04:21:05] [info] 		Standard Potion of Invisibility [0x0003EB40] added to 0/14102 NPCs
+[04:21:05] [info] 		Potent Potion of Invisibility [0x0003EB41] added to 6/14102 NPCs
+[04:21:05] [info] Hooked leveled actor init

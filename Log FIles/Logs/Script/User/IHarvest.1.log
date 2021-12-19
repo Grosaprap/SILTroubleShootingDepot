@@ -1,0 +1,13 @@
+[12/18/2021 - 02:41:02AM] IHarvest log opened (PC)
+[12/18/2021 - 02:41:02AM] Checking if SKSE is installed...
+[12/18/2021 - 02:41:02AM] SKSE version 2.0.19.65, script version 65 detected.
+[12/18/2021 - 02:41:02AM] Checking for updates; last version: 0, current version: 10205
+[12/18/2021 - 02:41:02AM] 	v1.0.1: Initializing StandbyGetterCrittersGT array
+[12/18/2021 - 02:41:02AM] 	v1.1.2: USSEP v4.2.0+ or IHarvestVanillaFixes detected; enabling HearthFire compat setting and resetting flora cache
+[12/18/2021 - 02:41:02AM] Clearing all known flora...
+[12/18/2021 - 02:41:02AM] FloraLearnerController state ready seems fine.
+[12/18/2021 - 02:41:04AM] ...Known flora cleared in 1.992996s.
+[12/18/2021 - 02:41:04AM] Set search mode to 2.0 (SkyPal)
+[12/18/2021 - 02:41:04AM] Finished updates. New version is: 10205
+[12/18/2021 - 02:41:04AM] PointerHolders synced.
+[12/18/2021 - 02:45:17AM] Log closed

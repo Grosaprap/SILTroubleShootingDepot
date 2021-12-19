@@ -1,0 +1,4 @@
+src\main.cpp(32): [MESSAGE] ConsoleUtilSSE v1.2.0.0
+src\main.cpp(55): [MESSAGE] ConsoleUtilSSE loaded
+src\Papyrus.cpp(109): [MESSAGE] Registered funcs for class ConsoleUtil
+src\main.cpp(17): [MESSAGE] Registered menu open close event sink

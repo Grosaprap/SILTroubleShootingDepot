@@ -1,0 +1,8 @@
+2021-11-24 16:40:26.801    error   9500 LVLI Wyrmstooth.esp/0x005d0598 not found, should be Vendor Container contents
+2021-11-24 16:40:26.801    error   9500 LVLI Midwood Isle.esp/0x00142430 not found, should be Vendor Container contents
+2021-11-24 16:40:26.801    error   9500 LVLI Midwood Isle.esp/0x0019b10a not found, should be Vendor Container contents
+2021-11-24 16:40:26.801    error   9500 LVLI AAX_Arweden.esp/0x00041dd1 not found, should be Vendor Container contents
+2021-11-24 16:40:26.994    error   9500 FormsCondition requires valid Forms, got LegacyoftheDragonborn.esm/0x00284a06
+2021-11-24 16:40:26.995    error   9500 FormsCondition requires valid Forms, got treasure_hunt.esl/0x00008802
+2021-11-24 16:40:26.995    error   9500 FormsCondition requires valid Forms, got Midwood Isle.esp/0x0010447b
+2021-11-24 16:40:26.995    error   9500 FormsCondition requires valid Forms, got SkyrimsUniqueTreasures.esp/0x0000f700

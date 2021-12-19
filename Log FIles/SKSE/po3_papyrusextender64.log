@@ -1,0 +1,78 @@
+[info] po3_PapyrusExtender v4.5.1
+[info] loaded plugin
+[info] Default Trampoline => 0B / 126B (00.00%)
+[info] **********FUNCTIONS***********
+[info] Registered object types
+[info] 	FootstepSet true
+[info] 	LightingTemplate true
+[info] 	Debris true
+[info] 	MaterialObject true
+[info] Registered activemagiceffect functions
+[info] Registered actor functions
+[info] Registered actorbase functions
+[info] Registered armor addon functions
+[info] Registered alias functions
+[info] Registered array functions
+[info] Registered book functions
+[info] Registered cell functions
+[info] Registered debug functions
+[info] Registered effect shader functions
+[info] Registered enchantment functions
+[info] Registered form functions
+[info] Registered FEC functions
+[info] Registered furniture functions
+[info] Registered game functions
+[info] Registered hazard functions
+[info] Registered light functions
+[info] Registered location functions
+[info] Registered magiceffect functions
+[info] Registered object reference functions
+[info] Registered package functions
+[info] Registered potion functions
+[info] Registered projectile functions
+[info] Registered scroll functions
+[info] Registered sound functions
+[info] Registered spell functions
+[info] Registered string functions
+[info] Registered UI functions
+[info] Registered utility functions
+[info] Registered visual effect functions
+[info] Registered weather functions
+[info] ********SCRIPT EVENTS*********
+[info] Registered struct RE::TESCellFullyLoadedEvent handler
+[info] Registered struct RE::TESQuestStartStopEvent handler
+[info] Registered struct RE::TESQuestStageEvent handler
+[info] Registered struct RE::TESObjectLoadedEvent handler
+[info] Registered struct RE::TESGrabReleaseEvent handler
+[info] *********STORY EVENTS*********
+[info] Registered struct RE::ActorKill::Event handler
+[info] Registered struct RE::BooksRead::Event handler
+[info] Registered struct RE::CriticalHit::Event handler
+[info] Registered struct RE::DisarmedEvent::Event handler
+[info] Registered struct RE::DragonSoulsGained::Event handler
+[info] Registered struct RE::TESHarvestedEvent::ItemHarvested handler
+[info] Registered struct RE::LevelIncrease::Event handler
+[info] Registered struct RE::LocationDiscovery::Event handler
+[info] Registered struct RE::ShoutAttack::Event handler
+[info] Registered struct RE::ActorKill::Event handler
+[info] Registered struct RE::SoulsTrapped::Event handler
+[info] Registered struct RE::SpellsLearned::Event handler
+[info] Registered form deletion event handler
+[info] ********HOOKED EVENTS*********
+[info] Hooked Actor Resurrect
+[info] Hooked Actor Reanimate
+[info] Default Trampoline => 14B / 126B (11.11%)
+[info] Hooked Magic Effect Apply
+[info] Default Trampoline => 28B / 126B (22.22%)
+[info] Default Trampoline => 42B / 126B (33.33%)
+[info] Default Trampoline => 56B / 126B (44.44%)
+[info] Hooked Weapon Hit
+[info] Default Trampoline => 70B / 126B (55.56%)
+[info] Hooked Magic Hit
+[info] Default Trampoline => 104B / 126B (82.54%)
+[info] Default Trampoline => 112B / 126B (88.89%)
+[info] Hooked Weather Change
+[info] Default Trampoline => 126B / 126B (100.00%)
+[info] Installing detection hook
+[info] Finished reverting data
+[info] Finished loading data
