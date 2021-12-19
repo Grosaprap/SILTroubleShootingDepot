@@ -1,0 +1,28 @@
+src\main.cpp(45): [info] Skyrim Souls RE - Updated v2.2.0.0 - (Fri Mar  5 17:49:36 2021)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 0B / 512B (00.00%)
+src\main.cpp(81): [info] Messaging interface registration successful.
+src\main.cpp(89): [info] Settings loaded.
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 14B / 512B (02.73%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 28B / 512B (05.47%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 42B / 512B (08.20%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 56B / 512B (10.94%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 70B / 512B (13.67%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 92B / 512B (17.97%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 106B / 512B (20.70%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 120B / 512B (23.44%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 134B / 512B (26.17%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 148B / 512B (28.91%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 156B / 512B (30.47%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 170B / 512B (33.20%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 184B / 512B (35.94%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 198B / 512B (38.67%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 212B / 512B (41.41%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 226B / 512B (44.14%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 271B / 512B (52.93%)
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Trampoline.cpp(114): [info] Default Trampoline => 285B / 512B (55.66%)
+src\main.cpp(92): [info] Hooks installed.
+src\main.cpp(94): [info] Skyrim Souls RE loaded.
+D:\SKSE\SkyrimRE\CommonLibSSE\include\SKSE\Interfaces.cpp(287): [error] Failed to register messaging listener for Dialogue Movement Enabler
+src\main.cpp(21): [info] Dialogue Movement Enabler not detected. Disabling compatibility.
+src\Menus\ContainerMenuEx.cpp(306): [info] Reading translations from Interface\Translate_ENGLISH.txt...
+src\Menus\ContainerMenuEx.cpp(384): [info] Reading translations finished.

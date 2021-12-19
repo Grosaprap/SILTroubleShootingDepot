@@ -1,0 +1,24 @@
+{
+	"int" : 
+	{
+		"version" : 106
+	},
+	"stringList" : 
+	{
+		"location" : [ "[none]", "LocTypeInTheCold", "LocTypeExterior", "LocTypePlayerHouse", "LocTypeInn", "LocTypeCastle" ],
+		"worn" : 
+		[
+			"[none]",
+			"ArmorClothing",
+			"ArmorHeavy",
+			"ArmorLight",
+			"ArmorJewelry",
+			"JewelryExpensive",
+			"ArmorMaterialLeather",
+			"IsDogTagAlpha",
+			"IsDogTagBravo",
+			"IsDogTagCharlie",
+			"IsDogTagDelta"
+		]
+	}
+}

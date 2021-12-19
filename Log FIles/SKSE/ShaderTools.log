@@ -1,0 +1,365 @@
+src\main.cpp(17): [MESSAGE] ShaderTools v1.0.0.0
+src\main.cpp(42): [MESSAGE] ShaderTools loaded
+src\BSShaderHooks.cpp(73): [DEBUG] Installing BSShader::LoadShaders hook
+src\BSShaderHooks.cpp(23): [MESSAGE] BSShader::LoadShaders called on 6, Lighting (1E3714CFA00), vs count: 127 ps count: 6924
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03000001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03000001_Parallax_Vc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03000201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03000201_Parallax_Vc_Spc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03004001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03004001_Parallax_Vc_DfSh.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03004201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03004201_Parallax_Vc_Spc_DfSh.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03006001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03006001_Parallax_Vc_Shd_DfSh.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03006201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03006201_Parallax_Vc_Spc_Shd_DfSh.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03020001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03020001_Parallax_Vc_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03020201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03020201_Parallax_Vc_Spc_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03024001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03024001_Parallax_Vc_DfSh_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03024201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03024201_Parallax_Vc_Spc_DfSh_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03026001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03026001_Parallax_Vc_Shd_DfSh_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03026201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03026201_Parallax_Vc_Spc_Shd_DfSh_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03200001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03200001_Parallax_Vc_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03200201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03200201_Parallax_Vc_Spc_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03204001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03204001_Parallax_Vc_DfSh_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03204201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03204201_Parallax_Vc_Spc_DfSh_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03206001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03206001_Parallax_Vc_Shd_DfSh_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03206201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03206201_Parallax_Vc_Spc_Shd_DfSh_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03220001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03220001_Parallax_Vc_Aspc_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03220201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03220201_Parallax_Vc_Spc_Aspc_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03224001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03224001_Parallax_Vc_DfSh_Aspc_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03224201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03224201_Parallax_Vc_Spc_DfSh_Aspc_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03226001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03226001_Parallax_Vc_Shd_DfSh_Aspc_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03226201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03226201_Parallax_Vc_Spc_Shd_DfSh_Aspc_Snow.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03400001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03400001_Parallax_Vc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03400201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03400201_Parallax_Vc_Spc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03404001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03404001_Parallax_Vc_DfSh.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03404201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03404201_Parallax_Vc_Spc_DfSh.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03406001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03406001_Parallax_Vc_Shd_DfSh.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03406201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03406201_Parallax_Vc_Spc_Shd_DfSh.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03420001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03420001_Parallax_Vc_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03420201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03420201_Parallax_Vc_Spc_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03424001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03424001_Parallax_Vc_DfSh_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03424201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03424201_Parallax_Vc_Spc_DfSh_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03426001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03426001_Parallax_Vc_Shd_DfSh_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03426201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03426201_Parallax_Vc_Spc_Shd_DfSh_Aspc.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03800001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03800001_Parallax_Vc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03800201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03800201_Parallax_Vc_Spc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03804001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03804001_Parallax_Vc_DfSh_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03804201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03804201_Parallax_Vc_Spc_DfSh_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03806001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03806001_Parallax_Vc_Shd_DfSh_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03806201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03806201_Parallax_Vc_Spc_Shd_DfSh_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03820001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03820001_Parallax_Vc_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03820201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03820201_Parallax_Vc_Spc_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03824001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03824001_Parallax_Vc_DfSh_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03824201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03824201_Parallax_Vc_Spc_DfSh_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03826001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03826001_Parallax_Vc_Shd_DfSh_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03826201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03826201_Parallax_Vc_Spc_Shd_DfSh_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A00001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A00001_Parallax_Vc_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A00201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A00201_Parallax_Vc_Spc_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A04001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A04001_Parallax_Vc_DfSh_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A04201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A04201_Parallax_Vc_Spc_DfSh_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A06001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A06001_Parallax_Vc_Shd_DfSh_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A06201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A06201_Parallax_Vc_Spc_Shd_DfSh_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A20001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A20001_Parallax_Vc_Aspc_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A20201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A20201_Parallax_Vc_Spc_Aspc_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A24001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A24001_Parallax_Vc_DfSh_Aspc_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A24201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A24201_Parallax_Vc_Spc_DfSh_Aspc_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A26001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A26001_Parallax_Vc_Shd_DfSh_Aspc_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03A26201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03A26201_Parallax_Vc_Spc_Shd_DfSh_Aspc_Snow_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C00001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C00001_Parallax_Vc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C00201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C00201_Parallax_Vc_Spc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C04001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C04001_Parallax_Vc_DfSh_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C04201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C04201_Parallax_Vc_Spc_DfSh_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C06001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C06001_Parallax_Vc_Shd_DfSh_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C06201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C06201_Parallax_Vc_Spc_Shd_DfSh_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C20001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C20001_Parallax_Vc_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C20201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C20201_Parallax_Vc_Spc_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C24001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C24001_Parallax_Vc_DfSh_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C24201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C24201_Parallax_Vc_Spc_DfSh_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C26001 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C26001_Parallax_Vc_Shd_DfSh_Aspc_Aam.ps.hlsl
+src\BSShaderHooks.cpp(41): [MESSAGE] found shader technique id 03C26201 with path D:\DNDDC\Stock Game\Data\SKSE\plugins\shaders\03C26201_Parallax_Vc_Spc_Shd_DfSh_Aspc_Aam.ps.hlsl
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\ShaderCompiler.cpp(45): [DEBUG] shader compilation succeeded
+src\ShaderCompiler.cpp(47): [DEBUG] registering shader
+src\ShaderCompiler.cpp(61): [DEBUG] shader registration succeeded
+src\BSShaderHooks.cpp(55): [DEBUG] shader compiled successfully, replacing old shader
+src\BSShaderHooks.cpp(66): [MESSAGE] found shaders: 72 successfully replaced: 72 failed to replace: 0

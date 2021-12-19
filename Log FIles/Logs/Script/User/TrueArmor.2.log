@@ -1,0 +1,18 @@
+[12/18/2021 - 04:13:08AM] TrueArmor log opened (PC)
+[12/18/2021 - 04:13:08AM] [TA_Status] OnGameReload: Notifying managers.
+[12/18/2021 - 04:13:10AM] [TA_Status] Found Dawnguard DLC, creating compatibility by adding keywords to lists.
+[12/18/2021 - 04:13:10AM] [TA_Status] Found Dragonborn DLC, creating compatibility by adding keywords to lists.
+[12/18/2021 - 04:13:10AM] [TA_Status] Could not find Immersive Armors, skipping dynamic compatibility for it.
+[12/18/2021 - 04:13:10AM] [TA_Status] ArmorManager: UpdateAllScaledArrays. Processing...
+[12/18/2021 - 04:13:17AM] [TA_Status] OnGameReload: Managers completed work.
+[12/18/2021 - 04:13:17AM] [TA_Status] Incrementing ModMenu update number. Is now: 4
+[12/18/2021 - 04:13:20AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:13:48AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:14:35AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:15:13AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:15:24AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:16:02AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:16:14AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:16:26AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:16:37AM] [TA_Status] Currently registered actors in shutdown phase: 0
+[12/18/2021 - 04:16:46AM] Log closed

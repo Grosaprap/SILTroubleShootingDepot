@@ -1,0 +1,23 @@
+[04:18:59:569] po3_CraftingRecipeDistributor v1.0.0
+[04:18:59:569] loaded
+[04:18:59:623] ***********SETTINGS***********
+[04:18:59:628] SMELT
+[04:18:59:628] 	max weapon cap : 0
+[04:18:59:628] 	max armor cap : 0
+[04:18:59:628] 	max jewelry cap : 0
+[04:18:59:629] 	max clutter cap : 0
+[04:18:59:630] **********OVERWRITES**********
+[04:18:59:691] No .ini files with _CRD suffix were found within the Data folder, aborting...
+[04:21:04:651] **********PROCESSING**********
+[04:21:04:755] Finished WEAP
+[04:21:04:977] Finished ARMOR
+[04:21:04:978] Finished CLUTTER
+[04:21:04:978] ************RESULT************
+[04:21:04:978] SMELT
+[04:21:04:978] 	3378 weapon recipes added
+[04:21:04:978] 	5601 armor recipes added
+[04:21:04:978] 	489 jewelry recipes added
+[04:21:04:978] 	52 clutter recipes added
+[04:21:04:978] TEMPER
+[04:21:04:978] 	68 weapon recipes added
+[04:21:04:978] 	536 armor recipes added

@@ -1,0 +1,20 @@
+src\main.cpp(21): [MESSAGE] MaxsuAIProcessFix v4.0.3.3
+src\main.cpp(51): [MESSAGE] MaxsuAIProcessFix loaded
+src\main.cpp(83): [MESSAGE] Register Event Call Back!
+src\AIProcessLoadGameFunc.cpp(19): [MESSAGE] Data Load CallBack Trigger!
+src\AIProcessData.cpp(11): [MESSAGE] Call AI Process Data Handler Constructor!
+src\AIProcessData.cpp(22): [MESSAGE] Set Minimum Trigger Hours to 2 from INI
+src\AIProcessData.cpp(39): [MESSAGE] Set UpdateAfterWaiting to true
+src\AIProcessData.cpp(56): [MESSAGE] Set UpdateAfterSleeping to true
+src\AIProcessData.cpp(73): [MESSAGE] Set UpdateAfterFastTravel to true
+src\AIProcessData.cpp(90): [MESSAGE] Set UpdateModAddNPCs to true
+src\AIProcessData.cpp(106): [MESSAGE] Get AI Overhaul Mod Name is : None
+src\AIProcessData.cpp(113): [MESSAGE] Init AI Process Data Handler!
+src\AIProcessLoadGameFunc.cpp(49): [MESSAGE] Register MapMenu OpenClose Event
+D:\SKSE VS Project\插件生成项目-SE版\MaxSuNPCAIProcessFix-SSE\NPCAIProcessFix-SSE\NPCAIProcessFix-SSE\include\AIProcessEvent_SleepWait.h(87): [MESSAGE] Register WaitStart Event Sink!
+D:\SKSE VS Project\插件生成项目-SE版\MaxSuNPCAIProcessFix-SSE\NPCAIProcessFix-SSE\NPCAIProcessFix-SSE\include\AIProcessEvent_SleepWait.h(201): [MESSAGE] Register WaitStop Event Sink!
+src\AIProcessLoadGameFunc.cpp(59): [MESSAGE] Register Wait Start Stop Event
+D:\SKSE VS Project\插件生成项目-SE版\MaxSuNPCAIProcessFix-SSE\NPCAIProcessFix-SSE\NPCAIProcessFix-SSE\include\AIProcessEvent_SleepWait.h(87): [MESSAGE] Register SleepStart Event Sink!
+D:\SKSE VS Project\插件生成项目-SE版\MaxSuNPCAIProcessFix-SSE\NPCAIProcessFix-SSE\NPCAIProcessFix-SSE\include\AIProcessEvent_SleepWait.h(201): [MESSAGE] Register SleepStop Event Sink!
+src\AIProcessLoadGameFunc.cpp(68): [MESSAGE] Register Sleep Start Stop Event
+src\AIProcessLoadGameFunc.cpp(74): [MESSAGE] Register Fast Travel Event

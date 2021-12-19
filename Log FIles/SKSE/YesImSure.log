@@ -1,0 +1,11 @@
+src\main.cpp(17): [MESSAGE] YesImSure v1.5.0.0
+src\main.cpp(40): [MESSAGE] YesImSure loaded
+src\SKSE\Trampoline.cpp(518): [TRAMPOLINE] Default Trampoline => 0B / 256B (00.00%)
+src\Hooks.cpp(346): [MESSAGE] Installled constructible object menu patch
+src\Hooks.cpp(357): [MESSAGE] Installled alchemy menu patch
+src\Hooks.cpp(368): [MESSAGE] Installled smithing menu patch
+src\Hooks.cpp(394): [MESSAGE] Installled enchanting menu exit patch
+src\SKSE\Trampoline.cpp(518): [TRAMPOLINE] Default Trampoline => 14B / 256B (05.47%)
+src\SKSE\Trampoline.cpp(518): [TRAMPOLINE] Default Trampoline => 28B / 256B (10.94%)
+src\Hooks.cpp(238): [MESSAGE] Installled poison patch
+src\Hooks.cpp(402): [MESSAGE] Installed hooks

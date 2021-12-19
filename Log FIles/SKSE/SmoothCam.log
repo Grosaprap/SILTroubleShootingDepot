@@ -1,0 +1,21 @@
+SKSEPlugin_Query begin
+Allowing module to load
+SKSEPlugin_Load begin
+Reading config file
+Caching offset IDs
+Releasing the address library database from memory, desired IDs are cached
+Registering plugin interfaces
+SmoothCam loaded!
+Added API consumer 'TrueDirectionalMovement'
+Papyrus native function registration completed.
+Hooking render shutdown method
+
+Hooking D3D11
+
+Looking for compatible mods
+
+ImprovedCamera.dll beta 1.0.0.4 not found, running without compatibility.
+Creating the camera
+
+Attaching detours
+

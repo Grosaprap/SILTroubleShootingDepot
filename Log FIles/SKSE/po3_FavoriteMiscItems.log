@@ -1,0 +1,8 @@
+[04:18:59] [info] Favorite Misc Items 3.5.0.0
+[04:18:59] [info] Favorite Misc Items loaded
+[04:18:59] [info] Default Trampoline => 0B / 64B (00.00%)
+[04:21:04] [info] patching favorite function
+[04:21:04] [info] Default Trampoline => 14B / 64B (21.88%)
+[04:21:04] [info] patching unfavorite function
+[04:21:04] [info] patching favorite equip function
+[04:21:04] [info] Default Trampoline => 28B / 64B (43.75%)

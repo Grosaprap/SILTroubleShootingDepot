@@ -1,0 +1,10 @@
+Initializing SimpleDualSheath version 1.0.0 (runtime 1.5.97.0)
+[EngineExtensions] [Patch] [CreateWeaponNodes] Writing..
+[EngineExtensions] [Patch] [CreateWeaponNodes] OK
+[EngineExtensions] [Patch] [SCB_Attach] Writing..
+[EngineExtensions] [Patch] [SCB_Attach] OK
+[EngineExtensions] [Patch] [SCB_Detach] Writing..
+[EngineExtensions] [Patch] [SCB_Detach] OK
+[EngineExtensions] [Patch] [CreateArmorNode] Writing..
+[EngineExtensions] [Patch] [CreateArmorNode] OK
+Loaded, trampolines: branch:[38/38] codegen:[239/240]

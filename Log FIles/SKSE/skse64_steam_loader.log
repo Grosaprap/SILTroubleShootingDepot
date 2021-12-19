@@ -1,0 +1,26 @@
+skse64 loader 02000130 (steam) 01D7F3F8A674BEEF 6.2 (9200)
+loader base addr = 00007FFAD1C10000
+exe base addr = 00007FF637FF0000
+found iat at 00007FF6394F98A8
+original thunk 00007FFAE82C1B30
+patched iat
+HookMain: thread = 2980 retaddr = 00007FF63933B159
+runtimePath = D:\DNDDC\Stock Game\SkyrimSE.exe
+dwSignature = FEEF04BD
+dwStrucVersion = 00010000
+dwFileVersionMS = 00010000
+dwFileVersionLS = 00000000
+dwProductVersionMS = 00010000
+dwProductVersionLS = 00000000
+dwFileFlagsMask = 00000017
+dwFileFlags = 00000000
+dwFileOS = 00000004
+dwFileType = 00000001
+dwFileSubtype = 00000000
+dwFileDateMS = 00000000
+dwFileDateLS = 00000000
+productVersionStr = 1.5.97.0
+version = 0001000500610000
+product name = TESV: Skyrim
+steam exe
+dll = D:\DNDDC\Stock Game\\skse64_1_5_97.dll

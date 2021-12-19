@@ -1,0 +1,30 @@
+[11:00:23:516] po3_Tweaks v1.2.0
+[11:00:23:517] loaded
+[11:00:23:586] Default Trampoline => 0B / 188B (00.00%)
+[11:00:23:586] ************FIXES*************
+[11:00:23:587] Installed queued ref crash fix
+[11:00:23:587] Default Trampoline => 14B / 188B (07.45%)
+[11:00:23:587] Installed map marker placement fix
+[11:00:23:587] Default Trampoline => 28B / 188B (14.89%)
+[11:00:23:587] Installed 'Can't Be Taken' book flag fix
+[11:00:23:587] Default Trampoline => 42B / 188B (22.34%)
+[11:00:23:587] Installed projectile range fix
+[11:00:23:587] Default Trampoline => 56B / 188B (29.79%)
+[11:00:23:587] Installed combat dialogue fix
+[11:00:23:589] Default Trampoline => 70B / 188B (37.23%)
+[11:00:23:589] Default Trampoline => 84B / 188B (44.68%)
+[11:00:23:589] Default Trampoline => 98B / 188B (52.13%)
+[11:00:23:589] Installed no death dispel spell reapply fix
+[11:00:23:589] Installed IsFurnitureAnimType fix
+[11:00:23:589] Installed light attach crash fix
+[11:00:23:589] ************TWEAKS************
+[11:00:23:589] Default Trampoline => 112B / 188B (59.57%)
+[11:00:23:589] Installed load door fade out tweak
+[11:00:23:589] Installed sound - time sync tweak
+[11:00:23:589] Installed dynamic snow material tweak
+[11:00:23:589] Installed no ripples on hover tweak
+[11:00:23:589] Default Trampoline => 126B / 188B (67.02%)
+[11:00:23:589] Installed screenshot to console tweak
+[11:00:23:589] Default Trampoline => 140B / 188B (74.47%)
+[11:00:23:589] Default Trampoline => 154B / 188B (81.91%)
+[11:00:23:589] Installed load door activate prompt tweak
